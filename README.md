@@ -17,3 +17,7 @@ This repo demonstrates how to use Parse's `PFLogInViewController` in a RubyMotio
 Parse's `PFLoginViewController` [documentation](https://parse.com/docs/ios/api/Classes/PFLogInViewController.html) and [demo video](https://parse.com/tutorials/login-and-signup-views).
 
 Conforming to protocols on MacRuby: http://stackoverflow.com/questions/8765132/macruby-conforming-to-protocols
+
+## License
+
+See LICENSE.txt
