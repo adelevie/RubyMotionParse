@@ -2,4 +2,4 @@
 build
 resources/*.nib
 
-vendor
+vendor/*.framework
