@@ -2,4 +2,4 @@
 build
 resources/*.nib
 
-vendor/*.framework
+vendor/Parse.framework/*
